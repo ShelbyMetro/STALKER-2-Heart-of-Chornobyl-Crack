@@ -6,7 +6,7 @@
 </div>
 
  <p align="center">
-    <img src="https://imgur.com/a/lDJHW2B" width="750">
+    <img src="https://i.imgur.com/NbcJCFg.png" width="750">
   </p>
 ---
 
